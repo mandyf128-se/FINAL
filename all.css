@@ -60,10 +60,6 @@ body {
 *,*:before, *:after {box-sizing: border-box;
 }
 
-* {
-  outline: 1px solid red;
-}
-
 .header-detail{
 	height: 90px;
 }
